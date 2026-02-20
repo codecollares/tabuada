@@ -1,8 +1,11 @@
 ## Multiplication Table Generator
 
-This page was developed to put a random number in there and when you click the button, It will show the multiplication table of this number.
+This page is a dynamic multiplication table generator. You input any number, and the application instantly renders its complete mathematical table. I've developed abilities here to handle user input, implement JavaScript logic loops, and dynamically update the DOM in real-time.
 
 Technologies used:
-- JavaScript
 - HTML
 - CSS
+- Vanilla JavaScript
+
+##
+*PS: Because why do the math in your head when you can write a script to do it for you, right?*
